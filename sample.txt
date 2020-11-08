@@ -1,0 +1,11 @@
+{ message_id: 3,
+  from:
+   { id: 256949175,
+     is_bot: false,
+     first_name: 'Aman',
+     language_code: 'en' },
+  chat: { id: 256949175, first_name: 'Aman', type: 'private' },
+  date: 1604817801,
+  text: '/start',
+  entities: [ { offset: 0, length: 6, type: 'bot_command' } ] }
+
